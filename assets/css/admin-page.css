@@ -1,0 +1,21 @@
+.lockout-logs {
+  width: auto;
+  margin-top: 10px;
+}
+
+.lockout-logs th {
+  padding: 5px 20px;
+  width: auto;
+}
+
+.lockout-logs td {
+  padding: 15px 20px;
+}
+
+@media screen and (max-width: 782px) {
+  .lockout-logs th,
+  .lockout-logs td {
+    display: table-cell;
+    vertical-align: top;
+  }
+}
