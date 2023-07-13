@@ -1,6 +1,6 @@
 # Pressidium Limit Login Attempts
 
-An object-oriented WordPress plugin based on [Limit Login Attempts](http://devel.kostdoktorn.se/limit-login-attempts) by [Johan Eenfeldt](http://devel.kostdoktorn.se/).
+An object-oriented WordPress plugin based on [Limit Login Attempts](https://wordpress.org/plugins/limit-login-attempts/) by [Johan Eenfeldt](https://profiles.wordpress.org/johanee/).
 
 ## Summary
 
